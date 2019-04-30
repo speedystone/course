@@ -1,5 +1,1 @@
-{
-versionCode:1;
-versionName:course-10.apk;
-forceUpdate:0;
-}
+{versionCode=0, versionName='course.apk', forceUpdate=0}
